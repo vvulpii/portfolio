@@ -11,7 +11,16 @@
     background-color: #B2DFDB;
 }
 
-.about blockquote {
+.about blockquote, form {
   padding-top: 10vh;
   padding-bottom: 10vh;
+  margin-bottom: 0;
+
+}
+
+#contact {
+  background-image: url("../img/y.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
