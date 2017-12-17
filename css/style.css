@@ -6,3 +6,12 @@
     background-position: center;
     display: flex; /* NEW */
 }
+
+.about{
+    background-color: #B2DFDB;
+}
+
+.about blockquote {
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+}
