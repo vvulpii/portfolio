@@ -1,0 +1,8 @@
+#intro {
+    min-height: 95vh;
+    background-image: url("../img/IMG_20171217_140107.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex; /* NEW */
+}
